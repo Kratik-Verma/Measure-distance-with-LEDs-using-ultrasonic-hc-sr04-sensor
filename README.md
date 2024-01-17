@@ -1,4 +1,4 @@
-# Measure distance with LEDs using ultrasonic hc-sr04 sensor
+# Measure distance with LEDs using ultrasonic hc-sr04 sensor  Typo
 
 The Ultrasonic sensor is very popular and used to measure the distance to an object. It comes complete with ultrasonic transmitter and receiver modules. Hc-sr04 transmit high-frequency sound and when an object detects then reflect the signal to echo.
 
